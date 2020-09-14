@@ -1,0 +1,2 @@
+rootProject.name='BookKeeperRoomDB'
+include ':app'
